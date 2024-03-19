@@ -1,1 +1,1 @@
-A simple recipe site exercise
+A recipe site exercise
